@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalvatoreSantoro
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on small projects for educational purpose
 - 📫 How to reach me santorosalvatoreunina@gmail.com
 
